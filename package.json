@@ -1,0 +1,19 @@
+{
+  "name": "callbackresultfilter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umehabiba139/Callback-Filter.git"
+  },
+  "author": "Ume Habiba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umehabiba139/Callback-Filter/issues"
+  },
+  "homepage": "https://github.com/umehabiba139/Callback-Filter#readme"
+}
